@@ -1,4 +1,4 @@
-# Warp + MuJoCo Sim-to-Real (Domain Randomization) Demo
+# 🤖 Warp + MuJoCo Sim-to-Real (Domain Randomization) Demo
 
 Minimal robotics RL project that:
 - trains a MuJoCo control policy with **domain randomization** (sim-to-real style)
