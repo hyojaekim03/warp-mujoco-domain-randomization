@@ -27,4 +27,12 @@ Minimal robotics RL project that:
 
 └── events.out.tfevents... # TensorBoard logs (if enabled)
 
+## Run Projects
+
+Run these files in this order.
+
+1. train_ppo.py
+2. evaluate.py
+3. warp_synth_data.py
+
 
