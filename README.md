@@ -25,7 +25,7 @@ Minimal robotics RL project that:
 
 ## 🏃 Run Projects
 
-Run project files in this order.
+Run project files in this order:
 
 1. train_ppo.py 
 
