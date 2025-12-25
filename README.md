@@ -27,8 +27,10 @@ Minimal robotics RL project that:
 
 Run project files in this order.
 
-**1.** train_ppo.py 
-**2.** evaluate.py 
-**3.** warp_synth_data.py 
+1. train_ppo.py 
+
+2. evaluate.py 
+
+3. warp_synth_data.py 
 
 
