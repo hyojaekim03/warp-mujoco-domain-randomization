@@ -12,27 +12,20 @@ Minimal robotics RL project that:
 ## Project Structure
 
 ├── domain_randomization.py # Wrapper that randomizes MuJoCo model params each reset
-
 ├── train_ppo.py # PPO training (Stable-Baselines3) with domain randomization
-
 ├── evaluate.py # Clean vs randomized evaluation
-
 ├── warp_synth_data.py # 100K+ synthetic obs + Warp kernel noise transform
-
 ├── ppo_inverted_pendulum_dr.zip # Saved SB3 model checkpoint (auto-generated)
-
 └── logs/
-
 ├── progress.csv # SB3 CSV logs (if enabled)
-
 └── events.out.tfevents... # TensorBoard logs (if enabled)
 
 ## Run Projects
 
-Run these files in this order.
+Run project files in this order.
 
-1. train_ppo.py
-2. evaluate.py
-3. warp_synth_data.py
+**1.** train_ppo.py
+**2.** evaluate.py
+**3.** warp_synth_data.py
 
 
